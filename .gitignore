@@ -1,0 +1,24 @@
+# NetBeans generated files
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Sensitive files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Exclude project documents and presentations
+*.docx
+project new 5.pdf
+Viva_Presentation_AI_Federated_Edge_Cloud_IoT.pptx
